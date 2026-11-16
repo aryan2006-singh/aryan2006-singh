@@ -123,8 +123,7 @@ Regression test harnesses · k6 load testing
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="Aryan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aryan2006-singh&show_icons=true&hide_border=true&bg_color=0e1b34&title_color=5b9dff&text_color=b4c4e4&icon_color=5b9dff" />
-  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan2006-singh&layout=compact&hide_border=true&bg_color=0e1b34&title_color=5b9dff&text_color=b4c4e4" />
+  <img alt="Aryan's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=aryan2006-singh&background=0e1b34&border=1c2d52&stroke=1c2d52&ring=5b9dff&fire=5b9dff&currStreakNum=eaf1ff&sideNums=eaf1ff&currStreakLabel=5b9dff&sideLabels=b4c4e4&dates=8497bb" />
 </p>
 
 ## 🔗 Connect
